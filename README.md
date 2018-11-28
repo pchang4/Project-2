@@ -50,4 +50,13 @@ Use the pre-defined Artboard sizes for responsive design in Sketch to create you
 While I don't expect you to write all of the content, I do expect you to write *some* of the content. Think about areas where *Lorem Ipsum* isn't going to be enough to convey what the content is. 
 
 ## Submission
-Submit your Medium link on Canvas
+
+https://invis.io/QPP3NJWG5E3 (Desktop wire frame prototype)
+https://invis.io/9FP3NKFBQEY (Desktop Comp)
+https://invis.io/PRP3NJKHAB8 (mobile wire frames prototype)
+https://invis.io/N3P3NKAP7F9 (mobile comps prototype)
+https://www.figma.com/file/N57nrUff635D9ry0Mbxx3R/ux_ptwo_ewudesignsite_comps-Mobile-WIreframes
+https://www.figma.com/file/OTSMUcMZ3iPVS8JxKWPPYK/ux_ptwo_ewudesignsite_comps-Mobile
+https://www.figma.com/file/oBqcl2JbyOhyzBowKCGLJs/ux_ptwo_ewudesignsite_comps-Desktop-wireframes
+https://www.figma.com/file/T8Z6493277H1ZEtJULj7SKlX/ux_ptwo_ewudesignsite_comps-Desktop
+https://medium.com/@pchang4/project-2-responsive-web-design-280a9c13337
